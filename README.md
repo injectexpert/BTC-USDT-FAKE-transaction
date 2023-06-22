@@ -12,7 +12,13 @@
 <p align="center">
 <img alt="BTC FAKE" src="https://github.com/injectexpert/BTC-USDT-FAKE-transaction/blob/main/img2.png" height="660" />
 <p align="center">  
-  
+
+<p align="center">
+<img alt="BTC FAKE" src="https://github.com/injectexpert/BTC-USDT-FAKE-transaction/blob/main/USDTfake.gif" height="360" />
+<p align="center">  
+
+### This token can not be sold and transferred to cryptocurrency exchanges, only transfer to wallets is possible.
+
 #### There are ways to make transactions with fake USDT.
 
 #### Therefore, I recommend that you do not make mistakes and do not trust sellers who want to sell you software for fake transactions.
